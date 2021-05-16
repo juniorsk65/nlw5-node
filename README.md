@@ -3,9 +3,11 @@
 <h1 align="center">
     <img alt="Suport Icon" title="Podcastr" src="./suport_icon.png" />
 </h1>
-<h1 align="center">
-    <img alt="Suport Chat" title="Podcastr" src="./print_tela_suporte.png" />
-</h1>
+
+|      Chat Admin       |      Chat client       |
+| :-------------------: | :--------------------: |
+| ![](./chat_admin.png) | ![](./chat_client.png) |
+
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,6 +24,7 @@ This project was developed using the following technologies:
 - [TypeORM](https://typeorm.io/)
 - [SQlite](https://www.sqlite.org/index.html)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Mustache](https://github.com/janl/mustache.js/)
 
 ## Getting Started
 
@@ -46,6 +49,14 @@ Simple chat to join with your application and help your users.
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
 ## Routes
+
+#### Admin
+
+> localhost:3333/pages/admin
+
+#### Client
+
+> localhsot:3333/pages/client
 
 ---
 
