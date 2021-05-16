@@ -40,6 +40,11 @@ class ConnectionsService {
 
     return connections;
   }
+
+  async findBySocketID(socket_id: string) {
+    return await this.connectionsRepository.findOne({ socket_id });
+  }
+
   async updateAdminID(user_id: string, admin_id: string) {
     await this.connectionsRepository
       .createQueryBuilder()
