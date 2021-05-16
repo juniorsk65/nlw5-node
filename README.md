@@ -26,7 +26,7 @@ This project was developed using the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Mustache](https://github.com/janl/mustache.js/)
 
-## Getting Started
+## 🚀 Getting Started
 
 Inside database dir, create the file `database.sqlite`.
 
@@ -42,13 +42,13 @@ Start application
 
 > yarn dev
 
-## Project
+## 💻 Project
 
 Simple chat to join with your application and help your users.
 
 This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)** during April 19-25, 2021.
 
-## Routes
+## 👀 Routes
 
 #### Admin
 
@@ -57,7 +57,3 @@ This is a project developed during the **[Next Level Week](https://nextlevelweek
 #### Client
 
 > localhsot:3333/pages/client
-
----
-
-<p align="center">Readme inspired by Guilherme Capitão</p>
